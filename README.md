@@ -8,3 +8,10 @@ Please add your blog post to the current week using the following template:
 * URL: http://www.dannyglu.nz/yikyak/ruby/markov/2014/10/29/yik-yakov/
 * Summary: Can Markov Chains be used to imitate a typical college student? Let's
 use the Yik Yak library to find out.
+
+## Ruby With Alex
+
+* By: Alex Jensen
+* GitHub: http://github.com/dalexj
+* URL: http://rubywithalex.herokuapp.com/2014/10/26/second-article.html
+* Summary: Why can ruby evaluate `unset_variable = unset_variable`?
