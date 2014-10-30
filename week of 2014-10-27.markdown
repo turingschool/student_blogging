@@ -8,3 +8,11 @@ Please add your name, twitter, github, and URL
 * URL: http://www.dannyglu.nz/yikyak/ruby/markov/2014/10/29/yik-yakov/
 * Summary: Can Markov Chains be used to imitate a typical college student? Let's
 use the Yik Yak library to find out.
+
+## How to Customize iTerm
+
+* By: Travis Yoder
+* Twitter: https://twitter.com/trayoda
+* GitHub: http://github.com/trayo
+* URL: http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/
+* Summary: A simple, in depth tutorial on customizing iTerm to visually appealing.
