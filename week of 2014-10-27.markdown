@@ -1,4 +1,4 @@
-Please add your blog post to the current week using the following template:
+Please add your name, twitter, github, and URL
 
 ## Yik Yakov
 
