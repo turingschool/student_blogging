@@ -1,4 +1,4 @@
-Please add your blog post to the current week using the following template:
+Please find the file for **the current week** and add your blog post following this template:
 
 ## Yik Yakov
 
