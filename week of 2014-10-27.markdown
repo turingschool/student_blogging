@@ -16,3 +16,10 @@ use the Yik Yak library to find out.
 * GitHub: http://github.com/trayo
 * URL: http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/
 * Summary: A simple, in depth tutorial on customizing iTerm to visually appealing.
+
+## Ruby With Alex
+
+* By: Alex Jensen
+* GitHub: http://github.com/dalexj
+* URL: http://rubywithalex.herokuapp.com/2014/10/26/second-article.html
+* Summary: Why can ruby evaluate `unset_variable = unset_variable`?
