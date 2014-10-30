@@ -23,3 +23,11 @@ use the Yik Yak library to find out.
 * GitHub: http://github.com/dalexj
 * URL: http://rubywithalex.herokuapp.com/2014/10/26/second-article.html
 * Summary: Why can ruby evaluate `unset_variable = unset_variable`?
+
+## Setting Up Ghost with DigitalOcean
+
+* By: Ian Andersen
+* Twitter: http://twitter.com/ianderse27
+* GitHub: http://github.com/ianderse
+* URL: http://mindfulprogramming.com/setting-up-ghost-with-digital-ocean/
+* Summary: Setting up a Ghost Blog on a DigitalOcean VPS
