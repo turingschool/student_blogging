@@ -1,0 +1,9 @@
+## Surviving the Titanic
+
+* By: Danny Glunz
+* Twitter: http://twitter.com/dannyglunz
+* GitHub: http://github.com/dglunz
+* URL: http://www.dannyglu.nz/machine-learning/2014/11/11/surviving-the-titanic/
+* Summary: Machine learning to avoid iceberg induced death
+
+
