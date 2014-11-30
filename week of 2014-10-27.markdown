@@ -39,3 +39,11 @@ use the Yik Yak library to find out.
 * GitHub: http://github.com/katelane
 * URL: http://k8lane.tumblr.com/post/101391119486/frontend-to-backend
 * Summary: Thoughts on coming from the frontend and incorporating frontend elements into our classes this week.
+
+##Foursquare in Rails
+
+* By: Allison Larson
+* Twitter: http://twitter.com/allielarson1212
+* Github: http://github.com/allisonlarson
+* URL: https://medium.com/@allisonlarson/foursquare-in-rails-a421f63d85a9
+* Summary: Working through the foursquare API in a rails app.
